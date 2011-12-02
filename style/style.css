@@ -1,0 +1,81 @@
+canvas
+{
+	border:3px solid black;
+	position:fixed;
+	top:80px;
+	left:20px;
+	
+}
+
+h1
+{
+position:fixed;
+top:10px;
+left:600px;
+color : rgb(200,200,200);
+
+
+}
+A:link {text-decoration: none;color : white;}
+A:visited {text-decoration: none;color:white;}
+#tab1
+{
+	color : white;
+	position:fixed;
+	right: 300px;
+	
+	top:0px;
+}
+#tab2
+{
+	
+	position:fixed;
+	right: 100px;
+	color: white;
+	top:0px;
+}
+textarea
+{
+	border:3px solid black;
+	color:white;
+	position:fixed;
+	top:90px;
+	right:50px;
+	background-color:rgb(250,250,250);
+}
+
+body {
+
+background-color: black;
+
+	} 
+p.commands
+{
+	color:white;
+	position:fixed;
+	top:40px;
+	left:960px;
+	font-size:25px;
+}
+p.c
+{
+color :white;
+position:fixed;
+	top:10px;
+	left:150px;
+	font-size:25px;
+}
+input.submit
+{
+	border:1px solid black;
+	position:fixed;
+	width:400;
+	height:40;
+	bottom:5px;
+	right:50px;
+	border-radius:25px;
+-moz-border-radius:25px;
+	color:rgb(200,200,200);
+	background-color:rgb(100,0,0);
+	
+}
